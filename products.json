@@ -1,0 +1,28 @@
+[
+    {
+      "title": "Pizza",
+      "category": "food",
+      "price": 10.99
+    },
+    {
+      "title": "Burger",
+      "category": "food",
+      "price": 5.99
+    },
+    {
+      "title": "Sandwich",
+      "category": "food",
+      "price": 4.49
+    },
+    {
+      "title": "T-shirt",
+      "category": "others",
+      "price": 15.99
+    },
+    {
+      "title": "Headphones",
+      "category": "others",
+      "price": 49.99
+    }
+  ]
+  
